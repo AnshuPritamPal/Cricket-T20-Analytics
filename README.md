@@ -77,3 +77,38 @@ The Player Analysis dashboard evaluates key batting metrics such as runs, strike
 The Final 11 dashboard presents the selected players along with their roles and key batting and bowling performance metrics.
 
 ![Final 11](final_11.png)
+
+---
+## 📁 Project Files
+
+```text
+Cricket-T20-Analytics/
+│
+├── README.md
+├── T20_Cricket_Analytics.pbix
+├── player_analysis.png
+└── final_11.png
+```
+
+---
+
+## 💡 Key Insights
+
+The dashboard helps identify:
+
+- High-performing T20 players
+- Batting performance across different players
+- Players with strong strike rates and batting averages
+- Performance based on runs, balls faced, and boundary percentage
+- Player performance across different roles
+- Strong candidates for T20 team selection
+- Data-driven selection of the Final 11
+- Overall team performance using key batting and bowling metrics
+
+---
+
+## 👤 Author
+
+**Anshu Pritam Pal**
+
+GitHub: [AnshuPritamPal](https://github.com/AnshuPritamPal)
