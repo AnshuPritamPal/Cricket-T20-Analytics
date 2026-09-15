@@ -61,3 +61,19 @@ Power BI Dashboard
 Performance Analysis
        ↓
 Data-Driven Insights
+```
+---
+
+## 📸 Dashboard Preview
+
+### Player Analysis
+
+The Player Analysis dashboard evaluates key batting metrics such as runs, strike rate, batting average, balls faced, and boundary percentage to compare player performance.
+
+![Player Analysis](player_analysis.png)
+
+### Final 11 Selection
+
+The Final 11 dashboard presents the selected players along with their roles and key batting and bowling performance metrics.
+
+![Final 11](final_11.png)
